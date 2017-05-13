@@ -1,5 +1,5 @@
-# MyJenkins
-Jenkins dockerfile that includes docker and docker-compose
+# About
+Jenkins Dockerfile that includes docker and docker-compose.
 
 # Build the image
 * docker build -t jenkins .
